@@ -2,9 +2,13 @@
 Sparks Foundation Internship Project : Basic Banking System Laravel - Web App for transfer money between users
 
 to run the system
+
 1- git clone the project
+
 2- config .env file 
+
 2- run command line in cmd: composer update
+
 3- run command line in cmd: php artisan migrate:fresh --seed
 
 
